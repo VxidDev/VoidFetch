@@ -1,6 +1,6 @@
 # VoidFetch
 
-VoidFetch is a Python-based system information tool. It fetches your system information and displays it in a colorful, terminal-friendly way, including ASCII art logos for your OS(ONLY FOR ARCH!).
+VoidFetch is a Python-based system information tool. It fetches your system information and displays it in a colorful, terminal-friendly way, including ASCII art logos for your OS(ONLY FOR ARCH! Because i cant find more logos:)).
 
 ---
 
